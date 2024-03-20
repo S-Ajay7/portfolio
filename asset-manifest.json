@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.6411eb0b.css",
+    "main.js": "/portfolio/static/js/main.83cd5258.js",
+    "static/media/Resume.png": "/portfolio/static/media/Resume.f9401f4c863fef87c9a3.png",
+    "static/media/Digit_to_Text.jpeg": "/portfolio/static/media/Digit_to_Text.5ab897ba0a1eec474ab5.jpeg",
+    "static/media/developer.png": "/portfolio/static/media/developer.ff2c13e2df33d8341743.png",
+    "static/media/Attendance-Management-System.png": "/portfolio/static/media/Attendance-Management-System.ff3b84f80179a4e0b234.png",
+    "static/media/R-js.png": "/portfolio/static/media/R-js.1ce7b597e7ddb0fccde3.png",
+    "static/media/profile.png": "/portfolio/static/media/profile.769c19e141452f172eaf.png",
+    "static/media/c.png": "/portfolio/static/media/c.30e8acff157f8fa06702.png",
+    "static/media/js.png": "/portfolio/static/media/js.f93064a8e10b5cbdcf96.png",
+    "static/media/java.png": "/portfolio/static/media/java.f5dd86c3ef6ef3f85acf.png",
+    "static/media/python.png": "/portfolio/static/media/python.c038d6e950c57ddc3d03.png",
+    "static/media/MySQL.png": "/portfolio/static/media/MySQL.8ca52c25afffafaa83f1.png",
+    "index.html": "/portfolio/index.html",
+    "main.6411eb0b.css.map": "/portfolio/static/css/main.6411eb0b.css.map",
+    "main.83cd5258.js.map": "/portfolio/static/js/main.83cd5258.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6411eb0b.css",
+    "static/js/main.83cd5258.js"
+  ]
+}
