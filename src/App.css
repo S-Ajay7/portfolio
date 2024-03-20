@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+<link href="https://fonts.googleapis.com/css2?family=Bellota+Text:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet">
+
+body{
+    font-family: "Bellota Text", sans-serif;
+}
+header ul li{
+    @apply px-2;
+
+}
+
+.bg-primary{
+    background-color: rgb(46, 172, 128);
+}
+
+.bg-secondary{
+    background-color: rgb(12, 131, 90);
+}
+
+.mobile-nav{
+    @apply fixed top-10 left-0 bg-gray-800 w-full h-1/4;
+}
+
+.mobile-nav li{
+    @apply w-full h-full text-center border-b-2;
+}
+
+.project{
+    @apply absolute left-0 right-0 bottom-0 top-[0] bg-secondary opacity-0 duration-500 hover:opacity-100;
+}
+
+.btn{
+    @apply bg-[#3bdaa2] px-5 py-2 font-bold border-2  border-[#0f9465] hover:border-white rounded;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.logo{
+    font-size: 20px;
+}
+
+.projects-font{
+    font-size: 25px;
+}
+
+.about-font{
+    font-size: 22px;
+}
